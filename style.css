@@ -1,0 +1,53 @@
+#header{
+    width: 100%;
+    height: 100px;
+    background-color:aqua;
+    display: inline-flex;
+    
+}
+h5{
+    margin-left: 60%;
+    font-size:17px;
+}
+.form-group{
+    margin:20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#submit{
+    width: 10%;
+    height: 30px;
+    border-radius: 20px;
+}
+input{
+    width: 30%;
+    height: 35px;
+    border-radius: 20px;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+}
+.citydate{
+    margin-left: 290px;
+    margin-right: 250px;
+    font-size: 25px;
+   
+}
+#datedemo{
+    display: inline-block;
+}
+.displayform{
+    background-color: gray;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+} h6{
+    font-size: 18px;
+    margin: 20px;
+}
+.footer{
+    background-color: cyan;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
