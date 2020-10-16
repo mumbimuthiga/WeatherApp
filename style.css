@@ -18,6 +18,7 @@ h5{
     width: 10%;
     height: 30px;
     border-radius: 20px;
+    border:1px;
 }
 input{
     width: 30%;
@@ -26,11 +27,14 @@ input{
     text-align: left;
     font-size: 20px;
     padding: 10px;
+    
 }
 .citydate{
     margin-left: 290px;
     margin-right: 250px;
     font-size: 25px;
+    font-weight: bold;
+    color:red;
    
 }
 #datedemo{
@@ -39,7 +43,10 @@ input{
 .displayform{
     background-color: gray;
     border-radius: 20px;
-    width: auto;
+    width: 250px;
+    color:black;
+    text-align: center;
+    margin-left: 250px;
     height: auto;
 } h6{
     font-size: 18px;
