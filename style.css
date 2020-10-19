@@ -1,9 +1,15 @@
 #header{
     width: 100%;
     height: 100px;
-    background-color:aqua;
-    display: inline-flex;
     
+    display: inline-flex;
+  
+    
+}
+body{
+    background: url(./images/cloud.jpeg)
+     no-repeat;
+    background-size: cover;
 }
 h5{
     margin-left: 60%;
@@ -13,7 +19,9 @@ h5{
     margin:20px;
     margin-left: 300px;
     margin-right: 300px;
+    
 }
+
 #submit{
     width: 10%;
     height: 30px;
@@ -53,7 +61,7 @@ input{
     margin: 20px;
 }
 .footer{
-    background-color: cyan;
+    
     width: 100%;
     position: absolute;
     bottom: 0;
